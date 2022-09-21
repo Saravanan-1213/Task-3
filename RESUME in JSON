@@ -1,0 +1,69 @@
+{
+  "basics": {
+    "name": "SARAVANAn",
+    "label": "",
+    "picture": "",
+    "email": "saravanansekar033@gmail.com",
+    "phone": "7548825655",
+    "degree": "B.Com Computer Application",
+    "summary": "To be a pillor of Reputed Organization to expand my Knowledge and utilize my skills to provide fidelity.",
+    "location": {
+      "address": "1, Kamarajar street 6th cross K.K.Pudur ",
+      "postalCode": "641038",
+      "city": "Coimbatore",
+      "countryCode": "INDIA",
+      "region": "TAMIL NADU"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "SaraVanan S",
+        "url": "https://www.linkedin.com/in/saravanan-s-03622222a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cognizant Technology Solutions",
+      "position": "Processing Executive",
+      "startDate": "2021-01-11",
+      "endDate": "2021-11-22"      
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "Sri Krishna Arts and Science College",
+      "area": "Commerce",
+      "startDate": "2017",
+      "endDate": "2020",
+      "cgpa": "8.0"
+      
+    }
+  ],
+  
+
+  "skills": [
+    {
+      "name": "MERN Full Stack Web Developer",
+      "level": "Learning at begining level",
+      "keywords": [
+        "MongoDB, Express, React, NodeJS, HTML, Java Script"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil, English",
+      "fluency": "Tamil, English"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport, Watching Movies, Cooking",
+      "keywords": [
+        "Cricket, To watch movie only in theates"
+      ]
+    }
+  ]
+}
